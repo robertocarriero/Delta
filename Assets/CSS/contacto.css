@@ -1,0 +1,11 @@
+:root {
+    --social-icon-height: 2rem;
+    --social-icon-margin: 0rem 1rem 1rem 1rem;
+}
+
+
+/* iconos de redes sociales */
+.social-icons a img {
+    height: var(--social-icon-height);
+    margin: var(--social-icon-margin);
+}
